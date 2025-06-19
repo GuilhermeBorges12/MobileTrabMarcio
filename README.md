@@ -35,12 +35,12 @@ https://github.com/user-attachments/assets/adf724ab-8e1e-42bc-8f96-8a1c608afd8e
 Este projeto foi desenvolvido como avaliação final da disciplina. Todo o código, recursos e interações demonstradas no vídeo estão implementadas no repositório abaixo.
 
 ## 💻 Como rodar o projeto localmente
-flutter pub get
-flutter run
- -Se for web : flutter run -d chrome
+    flutter pub get
+    flutter run
+    -Se for web : flutter run -d chrome
 
 ### 🔹 1. Clone o repositório
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/GuilhermeBorges12/MobileTrabMarcio
 
